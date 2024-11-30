@@ -6,7 +6,7 @@ import rings from '../assets/jewlleryBanner/rings.png'
 import bracelets from '../assets/jewlleryBanner/bracelet.png'
 import necklaces from '../assets/jewlleryBanner/necklace.png'
 import anklets from '../assets/jewlleryBanner/anklets.png'
-import '../styles/jewelleryBanner.css'
+import '../styles/JewelleryBanner.css';
 
 const jewelryTypes = [
     { name: 'Bangles', image: bangles },
